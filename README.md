@@ -1,5 +1,3 @@
 # Time Website
 
-This is my demo repo.
-
-This is some other content.
+Fully responsive website made using javascript, css and html.
